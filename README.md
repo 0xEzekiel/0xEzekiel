@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ezekiel! <br/><a href="https://github.com/0xEzekiel/">Programmer</a>, <a href="https://www.linkedin.com/in/ezekiel-eden-b327b014a/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Ezekiel!  <a href="https://www.linkedin.com/in/ezekiel-eden-b327b014a/">Cybersecurity Professional</a>, 
 
 <h2>🛡️🌐 CyberSecurity Projects:</h2>
 
